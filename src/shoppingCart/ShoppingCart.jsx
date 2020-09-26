@@ -63,6 +63,7 @@ function ShoppingCart(props) {
   /* ---------- ---------------------------------------------------*/
 
   // function to set cap on purchase
+
   function AddSingleItem(id) {
     if (subTotal < 3000) {
       props.dispatch(addOne(id));
