@@ -6,6 +6,17 @@
   width: 10%;
 }
 
+.product-filter-container image{
+  height: 45px;
+  width: 45px;
+}
+
+.product-filter-container:hover image{
+  height: 50px;
+  width: 50px;
+
+}
+
 .svg-filter-button {
   width: 100%;
 }
