@@ -63,7 +63,6 @@ export default () => {
       setNotEnoughtMoney("You Do Not Have Enough Gold");
     }
   }
-
   function RemoveSingleItem(id) {
     setNotEnoughtMoney(""); // clear error field
     dispatch(removeOne(id));
