@@ -4,6 +4,7 @@ export default (state = [], action) => {
   switch (action.type) {
     case "ADD":
       return action.payload;
+      
     case "REMOVE_All":
       const updatedCart = state.filter(
         (item) => item.id !== action.payload
@@ -18,6 +19,12 @@ export default (state = [], action) => {
         return cartItem;
      });
       return removeOneItem;
+
+      // function remover (cartitem){
+      //     state.map(cartItem)
+
+      // }
+     // a[0,5,c,y,iu]
 
       case "ADD_ONE":
         const addOneItem = state.map((cartItem)=>{

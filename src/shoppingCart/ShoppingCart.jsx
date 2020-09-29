@@ -50,6 +50,8 @@ function ShoppingCart(props) {
 
   let subTotal = 0;
 
+ 
+
   /*  calcualting subtotal*/
   for (const element of productsInCart) {
     subTotal = element.price * element.quantity + subTotal;
