@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86edaee1d064970377451687db3d08c9",
+    "revision": "179e0769f9eab7e50e4b7de853a418ff",
     "url": "/react-redux-router-grimburg-shop/index.html"
   },
   {
-    "revision": "a9aefbc56e63aa5bf013",
+    "revision": "d12e77e82672dcdad9f2",
     "url": "/react-redux-router-grimburg-shop/static/css/main.877c868f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-redux-router-grimburg-shop/static/js/2.94748485.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9aefbc56e63aa5bf013",
-    "url": "/react-redux-router-grimburg-shop/static/js/main.3ae95822.chunk.js"
+    "revision": "d12e77e82672dcdad9f2",
+    "url": "/react-redux-router-grimburg-shop/static/js/main.40608ef3.chunk.js"
   },
   {
     "revision": "3987151f79c52df2bf6a",

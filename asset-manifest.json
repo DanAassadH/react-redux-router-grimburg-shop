@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-redux-router-grimburg-shop/static/css/main.877c868f.chunk.css",
-    "main.js": "/react-redux-router-grimburg-shop/static/js/main.3ae95822.chunk.js",
-    "main.js.map": "/react-redux-router-grimburg-shop/static/js/main.3ae95822.chunk.js.map",
+    "main.js": "/react-redux-router-grimburg-shop/static/js/main.40608ef3.chunk.js",
+    "main.js.map": "/react-redux-router-grimburg-shop/static/js/main.40608ef3.chunk.js.map",
     "runtime-main.js": "/react-redux-router-grimburg-shop/static/js/runtime-main.520f1348.js",
     "runtime-main.js.map": "/react-redux-router-grimburg-shop/static/js/runtime-main.520f1348.js.map",
     "static/js/2.94748485.chunk.js": "/react-redux-router-grimburg-shop/static/js/2.94748485.chunk.js",
     "static/js/2.94748485.chunk.js.map": "/react-redux-router-grimburg-shop/static/js/2.94748485.chunk.js.map",
     "index.html": "/react-redux-router-grimburg-shop/index.html",
-    "precache-manifest.fbc68201e5d0ec9e2ad3e99469edfc74.js": "/react-redux-router-grimburg-shop/precache-manifest.fbc68201e5d0ec9e2ad3e99469edfc74.js",
+    "precache-manifest.2a443be22fc211ebf4fe688bd4a858cf.js": "/react-redux-router-grimburg-shop/precache-manifest.2a443be22fc211ebf4fe688bd4a858cf.js",
     "service-worker.js": "/react-redux-router-grimburg-shop/service-worker.js",
     "static/css/main.877c868f.chunk.css.map": "/react-redux-router-grimburg-shop/static/css/main.877c868f.chunk.css.map",
     "static/js/2.94748485.chunk.js.LICENSE.txt": "/react-redux-router-grimburg-shop/static/js/2.94748485.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.520f1348.js",
     "static/js/2.94748485.chunk.js",
     "static/css/main.877c868f.chunk.css",
-    "static/js/main.3ae95822.chunk.js"
+    "static/js/main.40608ef3.chunk.js"
   ]
 }
