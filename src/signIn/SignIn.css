@@ -149,6 +149,7 @@ input[type="submit"]:hover, input[type="text"]:hover{
   bottom: -32px;
 }
 
+
 @media screen and (min-width: 440px) {
   .bubble {
     margin: 0;
