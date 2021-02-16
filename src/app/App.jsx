@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  HashRouter as Router,
+  HashRouter,
   Route,
   Switch
 } from 'react-router-dom';
@@ -18,7 +18,7 @@ import ScrollToTop from './ScrollToTop';
 
 export default () => {
   return(
-    <Router>
+    <HashRouter>
       <ScrollToTop />
       <Switch>
         <ToastProvider placement="top-right">
@@ -49,6 +49,6 @@ export default () => {
           </Route>
         </ToastProvider>
       </Switch>
-    </Router>
+    </HashRouter>
   )
 }
