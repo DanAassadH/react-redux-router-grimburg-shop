@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-redux-router-grimburg-shop/precache-manifest.5b098181f5ef9d746d2454fe5f9b27a1.js"
+  "/react-redux-router-grimburg-shop/precache-manifest.6df10f6ebabb8f91692b30ac5e0204b1.js"
 );
 
 self.addEventListener('message', (event) => {
