@@ -16,5 +16,11 @@
       { "member": "Tammy",  "funds": 8000, "profileImg": "viking-avatar.svg"},
       { "member": "Aaron",  "funds": 8000, "profileImg": "dwarf-avatar.svg"}
     ]
+  },
+  {
+    "clan": "admin",
+    "members": [
+      { "member": "admin", "funds": 8000, "profileImg": "master-avatar.svg"}
+    ]
   }
 ]
