@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-redux-router-grimburg-shop/static/css/main.dd22730c.chunk.css",
-    "main.js": "/react-redux-router-grimburg-shop/static/js/main.3ae95822.chunk.js",
-    "main.js.map": "/react-redux-router-grimburg-shop/static/js/main.3ae95822.chunk.js.map",
+    "main.js": "/react-redux-router-grimburg-shop/static/js/main.8a3ffaf5.chunk.js",
+    "main.js.map": "/react-redux-router-grimburg-shop/static/js/main.8a3ffaf5.chunk.js.map",
     "runtime-main.js": "/react-redux-router-grimburg-shop/static/js/runtime-main.520f1348.js",
     "runtime-main.js.map": "/react-redux-router-grimburg-shop/static/js/runtime-main.520f1348.js.map",
-    "static/js/2.94748485.chunk.js": "/react-redux-router-grimburg-shop/static/js/2.94748485.chunk.js",
-    "static/js/2.94748485.chunk.js.map": "/react-redux-router-grimburg-shop/static/js/2.94748485.chunk.js.map",
+    "static/js/2.f6c7f6db.chunk.js": "/react-redux-router-grimburg-shop/static/js/2.f6c7f6db.chunk.js",
+    "static/js/2.f6c7f6db.chunk.js.map": "/react-redux-router-grimburg-shop/static/js/2.f6c7f6db.chunk.js.map",
     "index.html": "/react-redux-router-grimburg-shop/index.html",
-    "precache-manifest.adc51a4631be8babad84c1f5926f6f8d.js": "/react-redux-router-grimburg-shop/precache-manifest.adc51a4631be8babad84c1f5926f6f8d.js",
+    "precache-manifest.dd8da654b774e3703975419032419c37.js": "/react-redux-router-grimburg-shop/precache-manifest.dd8da654b774e3703975419032419c37.js",
     "service-worker.js": "/react-redux-router-grimburg-shop/service-worker.js",
     "static/css/main.dd22730c.chunk.css.map": "/react-redux-router-grimburg-shop/static/css/main.dd22730c.chunk.css.map",
-    "static/js/2.94748485.chunk.js.LICENSE.txt": "/react-redux-router-grimburg-shop/static/js/2.94748485.chunk.js.LICENSE.txt"
+    "static/js/2.f6c7f6db.chunk.js.LICENSE.txt": "/react-redux-router-grimburg-shop/static/js/2.f6c7f6db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.520f1348.js",
-    "static/js/2.94748485.chunk.js",
+    "static/js/2.f6c7f6db.chunk.js",
     "static/css/main.dd22730c.chunk.css",
-    "static/js/main.3ae95822.chunk.js"
+    "static/js/main.8a3ffaf5.chunk.js"
   ]
 }
