@@ -6,6 +6,10 @@ Grimburg's Armour & Potions is an e-commerce website set in a role-playing game 
 
 The purpose of this application is to provide an online-store that allows users to login, view and purchase a catalogue of items (armour, weapons, trinkets, consumables) that they can use for their online avatars.
 
+## Demo 
+- https://grimburgsshop.web.app/
+- use admin admin as login credentials
+
 ## Requirements
 This application required the demonstration of the following:
 - React
